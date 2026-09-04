@@ -1,2 +1,2 @@
-# ignore the airfoil folder
-airfoils/
+# ignore anything in the airfoil folder
+airfoils/*
